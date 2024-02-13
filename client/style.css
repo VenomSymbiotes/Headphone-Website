@@ -15,5 +15,13 @@
   font-family: azonix;
   transform: translate(-50%, -50%);
   z-index: -1;
-  font-size: 8;
+  font-size: 80px;
+  text-align: center;
+}
+.box ul li {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  list-style: none;
+  opacity: 0;
 }
